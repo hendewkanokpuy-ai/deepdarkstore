@@ -1,22 +1,7 @@
 # deepdarkstore
 
-▓█████▄  ▓█████  ▓█████  ██▓███   ▓█████▄  ▄▄▄       ██▀███   ██ ▄█▀
-▒██▀ ██▌ ▓█   ▀  ▓█   ▀ ▓██▒  ██▒ ▒██▀ ██▌▒████▄    ▓██ ▒ ██▒ ██▄█▒
-░██   █▌ ▒███    ▒███   ▓██░ ██▓▒ ░██   █▌▒██  ▀█▄  ▓██ ░▄█ ▒▓███▄░
-░▓█▄   ▌ ▒▓█  ▄  ▒▓█  ▄ ▒██▄█▓▒ ▒  ░▓█▄   ▌░██▄▄▄▄██ ▒██▀▀█▄  ▓██ █▄
-░▒████▓  ░▒████▒ ░▒████▒▒██▒ ░  ░ ░▒████▓  ▓█   ▓██▒░██▓ ▒██▒▒██▒ █▄
- ▒▒▓  ▒  ░░ ▒░ ░  ░ ▒░ ░▒▓▒░ ░  ░  ▒▒▓  ▒  ▒▒   ▓▒█░░ ▒▓ ░▒▓░▒ ▒▒ ▓▒
- ░ ▒  ▒   ░ ░  ░  ░ ░  ░░▒ ░       ░ ▒  ▒   ▒   ▒▒ ░  ░▒ ░ ▒░░ ░▒ ▒░
- ░ ░  ░     ░       ░   ░░         ░ ░  ░   ░   ▒     ░░   ░ ░ ░░ ░
-   ░        ░  ░    ░  ░             ░          ░  ░   ░     ░  ░
- ░                             ░
+## วิธีการใช้งานโปรแกรม Aimbot External Powershell Edition BY DEEPDARKSTORE deepdarkstore.rexzy.xyz
 
-วิธีการใช้งานโปรแกรม Aimbot External Powershell Edition
-เปิด Powershell (Run As Adminstrator)
-
-ก๊อปคำสั่งด้านล่างไปวางใน Powershell
-
-วิธีการใช้งานโปรแกรม Aimbot External Powershell Edition
 เปิด Powershell (Run As Adminstrator)
 
 ก๊อปคำสั่งด้านล่างไปวางใน Powershell
