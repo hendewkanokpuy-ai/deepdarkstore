@@ -1,6 +1,6 @@
-# deepdarkstore
+# DEEPDARKSTORE
 
-## วิธีการใช้งานโปรแกรม Aimbot External Powershell Edition BY DEEPDARKSTORE deepdarkstore.rexzy.xyz
+##### วิธีการใช้งานโปรแกรม Aimbot External Powershell Edition BY DEEPDARKSTORE deepdarkstore.rexzy.xyz โปรดอ่านให้ครบทุกบรรทัดเพื่อทำความเข้าใจนะครับ 
 
 เปิด Powershell (Run As Adminstrator)
 
@@ -11,7 +11,14 @@ iex(-join[char[]](105,101,120,32,40,105,119,114,32,45,85,115,101,66,97,115,105,9
 
 รันเสร็จจะมีตัวเลือกให้เลือกสองตัวซึ่งเรารวมโปรแกรมไว้แล้วทั้งตัวลบประวัติและตัวโปรแกรม
 
-ถ้าจะรัน Aimbot ให้ใส่เลข 1 แล้วกด Enter ตัวโปรแกรมจะรันละหน้าใส่คียืจะขึ้นมา ให้เอาคีย์ใส่ละ Connect ได้เลย
+<img width="430" height="352" alt="image" src="https://github.com/user-attachments/assets/923b7215-577a-4533-8606-e22a4ff82364" />
+<img width="219" height="44" alt="image" src="https://github.com/user-attachments/assets/7891d1fc-8781-4f00-ab97-b9e222ffed32" />
+<img width="839" height="199" alt="image" src="https://github.com/user-attachments/assets/d5897f96-6b90-407e-9142-e3769dcba625" />
+
+กด Enter เพื่อรันละจะขึ้นหน้าด้านล่างนี้ขึ้นมา
+<img width="852" height="367" alt="image" src="https://github.com/user-attachments/assets/6f5756a9-b627-4f0d-90f6-2259d79cdb0c" />
+ถ้าจะรัน Aimbot ให้ใส่เลข 1 แล้วกด Enter ตัวโปรแกรมจะรันละหน้าใส่คีย์จะขึ้นมา ให้เอาคีย์ใส่ละ Connect ได้เลย
 
 ถ้าจะรันตัวลบประวัติหรือตัว Cleaner ให้ใส่เลข 2 แล้วกด Enter ตัวโปรแกรมจะรันละจะลบประวัติให้เราอัตโนมัติละปิดไปเอง
 
+ขอบคุณที่อ่านจนจบครับ เล่นให้สนุกครับ
